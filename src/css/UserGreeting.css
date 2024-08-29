@@ -1,7 +1,9 @@
 .logged{
+  font-family: Arial, Helvetica, sans-serif;
   color: black;
 }
 
 .not-logged{
+  font-family: Arial, Helvetica, sans-serif;
   color: red;
 }
