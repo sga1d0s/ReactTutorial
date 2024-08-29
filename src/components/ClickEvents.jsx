@@ -1,5 +1,5 @@
 
-function MouseEvents() {
+function ClickEvents() {
 
   // variable contador
   let count = 0;
@@ -41,5 +41,4 @@ function MouseEvents() {
   </>
   )
 }
-
-export default MouseEvents
+export default ClickEvents

@@ -2,7 +2,7 @@ import UserGreeting from './components/UserGreeting'
 import Student from './components/Student'
 import List from './components/List'
 import Button from './components/Button';
-import MouseEvents from './components/MouseEvents'
+import ClickEvents from './components/ClickEvents'
 
 function App() {
 
@@ -14,7 +14,7 @@ function App() {
       {/* <Button></Button> */}
       {/* <Student></Student> */}
       {/* <List></List> */}
-      {/* <MouseEvents></MouseEvents> */}
+      {/* <ClickEvents></ClickEvents> */}
     </>
   );
 }
